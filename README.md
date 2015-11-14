@@ -15,5 +15,10 @@ http://www.nngroup.com/
     * de-fluffed language devoid of marketese
     Eyetracking for Reading Patterns show that users often read Web pages in an F-shaped pattern: two horizontal stripes followed by a vertical stripe.
 5.  Fixed Font Size - Set CSS font sizes in relative terms and not in an absolute number of pixels so users can resize text as needed
-6.  Page Titles with low Searh Engine Visibility - The <title> tag is almost always used for clickable headline for search - Don't use words like "The" or "Welcome"
+6.  Page Titles with low Searh Engine Visibility - The <title> tag is almost always used for clickable headline for search - Don't use words like "The" or "Welcome".  Have the Homepage give the specifics of what the user will find on the page.  Don't have page titles be the same or it will severely reduce the usability - make them distinct.  Taglines (explain what the company does and why it's unique from competitors - Ask the questions "Would it work just as well for competitors?" "Would any company ever claim the opposite?") Taglines need to be short and quickly communicate the purpose of the website.
+7.  Anything that looks like an Advertisment - Savy users have learned to ignore advertising and anything that looks like it. Avoid designs that look like advertisement and follow these rules:
+*  Banner Blindness - users don't fixate their eyes on anything that looks like a banner
+*  Animation Avoidance - users ignore areas of blinking or flashing text or other aggressive animations
+*  Pop-up purges - users close pop-up windows before they have fully rendered
+8. Violating Design Conventions -
 
