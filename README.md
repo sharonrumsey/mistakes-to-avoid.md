@@ -20,5 +20,7 @@ http://www.nngroup.com/
 *  Banner Blindness - users don't fixate their eyes on anything that looks like a banner
 *  Animation Avoidance - users ignore areas of blinking or flashing text or other aggressive animations
 *  Pop-up purges - users close pop-up windows before they have fully rendered
-8. Violating Design Conventions -
+8. Violating Design Conventions - CONSISTENCY is a powerful usability principle so user will know what to expect. If users expectations are as expected then they will feel more in control of the system. "Jakob's law of web user experience: Users spend most of their time on OTHER websites" Meaning that they form their expectation based on experience done on other sites.  If you deviate then your site will be harder to use and users will leave.
+9. Opening New Browser Windows - Don't pollute the users screen with more windows. Also implies that the website is taking over the user's machine.  This strategy is self-defeating since it disables the back button.  If links don't behave as expected undermines the users' understanding of their own system.
+10. Not Answering User's Questions - Users are goal driven and visit sites because that want something so if it's not supplied then the website is a failure. The worse example is not listing the price.
 
